@@ -8,7 +8,7 @@ import {
   keyframes,
   group
 } from "@angular/animations";
-
+//Angular animations
 @Component({
   selector: "app-root",
   templateUrl: "./app.component.html",
